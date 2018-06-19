@@ -7,8 +7,8 @@
     "code_of_conduct":"",
     "email":"info@eoshenzhen.io",
     "branding":{
-      "logo_256":"https://github.com/eoshenzhen/website/raw/master/logo.png",
-      "logo_1024":"https://github.com/eoshenzhen/website/raw/master/logo.png",
+      "logo_256":"https://github.com/eoshenzhen/website/raw/master/256.png",
+      "logo_1024":"https://github.com/eoshenzhen/website/raw/master/1024.png",
       "logo_svg":""
     },
     "location": {
@@ -38,7 +38,7 @@
         "longitude": 114.06
       },
       "is_producer": true,
-      "p2p_endpoint": "new.eoshenzhen.io:10034",
+      "p2p_endpoint": "fullnode.eoshenzhen.io:10334",
       "api_endpoint": "https://fullnode.eoshenzhen.io",
       "ssl_endpoint": "https://fullnode.eoshenzhen.io"
     }
