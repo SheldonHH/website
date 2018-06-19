@@ -37,10 +37,34 @@
         "latitude": 22.54,
         "longitude": 114.06
       },
-      "is_producer": true,
+      "is_producer": false,
       "p2p_endpoint": "fullnode.eoshenzhen.io:10334",
-      "api_endpoint": "https://fullnode.eoshenzhen.io",
+      "api_endpoint": "https://api.eoshenzhen.io",
       "ssl_endpoint": "https://fullnode.eoshenzhen.io"
+    },
+    {
+      "location": {
+        "name": "Shenzhen",
+        "country": "China",
+        "latitude": 22.54,
+        "longitude": 114.06
+      },
+      "is_producer": false,
+      "p2p_endpoint": "fullnode1.eoshenzhen.io:10334",
+      "api_endpoint": "https://api1.eoshenzhen.io",
+      "ssl_endpoint": "https://fullnode1.eoshenzhen.io"
+    },
+    {
+      "location": {
+        "name": "Shenzhen",
+        "country": "China",
+        "latitude": 22.54,
+        "longitude": 114.06
+      },
+      "is_producer": true,
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "ssl_endpoint": ""
     }
   ]
 }
